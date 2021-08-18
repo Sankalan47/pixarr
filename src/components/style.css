@@ -1,0 +1,10 @@
+.header {
+  background-color: white;
+  background-image: url("../assets/alexander-popov-3InMDrsuYrk-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100vh;
+}
+.heading {
+  font-family: "Roboto Mono", monospace;
+}
